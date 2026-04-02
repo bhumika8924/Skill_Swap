@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Skill-Swap-00c6ff?style=for-the-badge&logoColor=white" alt="SkillSwap" style="margin-bottom: 20px" />
-  <h1>SkillSwap</h1>
+  <h1>SkillSync</h1>
   <p><strong>Trade Skills. Save Money.</strong></p>
 
   <p>
@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 Overview
-**SkillSwap** is a community-driven platform designed for students and professionals to trade their skills without exchanging money. Instead of paying for expensive courses, you can find someone who knows what you want to learn, and teach them a skill you excel at in return.
+**SkillSync** is a community-driven platform designed for students and professionals to trade their skills without exchanging money. Instead of paying for expensive courses, you can find someone who knows what you want to learn, and teach them a skill you excel at in return.
 
 **🌍 Live Demo:** [https://skillswap-4tg3.vercel.app/](https://skillswap-4tg3.vercel.app/)
 
